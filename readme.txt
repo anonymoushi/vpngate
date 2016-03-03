@@ -1,3 +1,5 @@
+俺那个【自动同步翻墙工具】的 BT sync 密钥：BTLZ4A4UD3PEWKPLLWEOKH3W7OQJKFPLG
+
 “VPN Gate”是2013年横空出世的翻墙工具，并且在2014年1月开放源代码（正式成为“开源项目”）。
 它采用“分布式”的方法提供 VPN Server，以此来对抗 GFW 的“IP 黑名单”。
 很多 VPN Gate 的 Server 是海外网友志愿提供的。如果你担心 Server 本身的安全性，建议采用 VPN + TOR 的方式构造“双重代理”。
